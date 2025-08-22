@@ -52,9 +52,9 @@ Soy un estudiante recién ingresado interesado en programación, tecnología y a
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmunozg8888/pmunozg8888/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman" src="https://raw.githubusercontent.com/pmunozg8888/pmunozg8888/output/pacman-contribution-graph-dark.svg" style="background:#000;">
 </picture>
+
 
 ###
