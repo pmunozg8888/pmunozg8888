@@ -3,7 +3,7 @@
 ###
 👤 **Nombre:** Pablo Josue Muñoz Gil  
 📧 **Contacto:** [pablojosuemg@hotmail.com](mailto:pablojosuemg@hotmail.com)  
-💻 **Rol:** Estudiante y desarrollador en formación  
+💻 **Rol:** Ingeniero de Sistemas
 
 ###
 <div align="center">
@@ -14,7 +14,7 @@
 
 
 ## 📚 Sobre mí
-Soy un estudiante recién ingresado interesado en programación, tecnología y aprendizaje constante.  
+Soy un estudiante interesado en programación, tecnología y aprendizaje constante.  
 
 ###
 
